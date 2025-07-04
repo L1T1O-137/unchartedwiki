@@ -17,6 +17,6 @@ document.addEventListener("DOMContentLoaded", function() {
 
         
         alert("Bem-vindo à Uncharted Wiki, " + nome + "!");
-        window.location.href = "home.html";
+        window.location.href = "index.html";
     });
 });
